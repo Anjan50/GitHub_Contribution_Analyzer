@@ -129,22 +129,6 @@ GITHUB_TOKEN='yourGitHubPAT'
 - **`UserComments`** - Retrieve user comments on repositories.
 - **`UserCommits`** - Fetch commit-related contributions within a time range.
 
-
-
-## Testing
-
-Each endpoint has undergone extensive unit and integration testing, including:
-- **/time_range_contributions**
-- ![image](https://github.ncsu.edu/hshelar/GitHub_Miner/assets/35122/a951e428-8669-4277-82c9-81a664a0f73e)
-
-- **/comments**
-- ![image](https://github.ncsu.edu/hshelar/GitHub_Miner/assets/35122/f8a3f6c7-f74b-4e77-ae61-81f84083bc28)
-- ![image](https://github.ncsu.edu/hshelar/GitHub_Miner/assets/35122/fdd2b145-d5fb-4385-8301-0328534c1966)
-- ![image](https://github.ncsu.edu/hshelar/GitHub_Miner/assets/35122/c9a2fb73-b5ee-40b7-9d42-4120bc304d2b)
-
-
-Testing validated response accuracy, pagination, and error handling across scenarios.
-
 ---
 
 # Python Version
